@@ -1,5 +1,4 @@
-
-const formData = {email: ``, message: ''};
+const formData = { email: ``, message: '' };
 const formDataKey = `feedback-form-state`;
 const feedbackForm = document.querySelector('.feedback-form');
 
